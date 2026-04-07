@@ -1,2 +1,13 @@
-# JAVA_PRACTICE_PROGRAMS
-Daily Java practice programs on java topics like Inheritance, Collections, whole OOPs concept etc.
+# Java Practice Programs
+
+This repository contains my daily Java practice programs.
+
+Topics Covered:
+- Inheritance
+- Collections
+- OOP Concepts
+- Exception Handling
+- Multithreading
+
+Author: Azhar Hussain  
+Goal: Becoming a Java Backend Developer
